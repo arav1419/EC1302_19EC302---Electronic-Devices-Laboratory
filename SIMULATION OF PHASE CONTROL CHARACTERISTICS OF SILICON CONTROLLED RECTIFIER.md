@@ -1,5 +1,4 @@
-
-# SIMULATION OF PHASE CONTROL CHARACTERISTICS OF SILICON CONTROLLED RECTIFIER.
+# SIMULATION OF PHASE CONTROL CHARACTERISTICS OF SILICON CONTROLLED RECTIFIER
 
 ## AIM:
 To design and simulate the phase control characteristics of SCR circuit using LT-Spice.
@@ -27,11 +26,13 @@ LT-Spice
 8.Click on the run option --> simulation window opens --> place the probe --> output graph is obtained.
 
 ## CIRCUIT DIAGRAM:
-<img width="1163" height="697" alt="image" src="https://github.com/user-attachments/assets/f20cfdd7-1d11-452b-a95d-7d1737b736c1" />
+
+<img width="595" height="272" alt="image" src="https://github.com/user-attachments/assets/150bbd0f-122b-4ee0-ac72-71b8f1df370e" />
 
 ## OUTPUT GRAPH:
-![WhatsApp Image 2025-11-27 at 08 52 40_5aaa1d6e](https://github.com/user-attachments/assets/79a82e47-3e50-4be7-923b-02ef85345489)
 
+![WhatsApp Image 2025-12-04 at 10 16 42_28ae6571](https://github.com/user-attachments/assets/4941836c-a8b8-4e55-b78d-574f30c92551)
 
 ## RESULT:
 Thus the phase control characteristics of SCR using LT-spice is simulated and verified. 
+
